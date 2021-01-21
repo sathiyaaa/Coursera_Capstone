@@ -1,5 +1,3 @@
-# Coursera_Capstone
-Capstone Project for IBM Cognitive Classes
+# restaurant map visualization
 
-
-IBM Data Science final capstone project.
+Built using Py
